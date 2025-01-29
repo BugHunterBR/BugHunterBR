@@ -16,6 +16,8 @@ Me chamo Pedro Kruger, tenho 24 anos e sou natural do Rio Grande do Sul. Atualme
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/pedro_alkr/"><img width="32px" alt="instagram" title="pedro_alkr" src="https://imgur.com/E1v36ak.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/bughunterbr/"><img width="32px" alt="dev" title="bughunterbr" src="https://imgur.com/ViODreG"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 ---
