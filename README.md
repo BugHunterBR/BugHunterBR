@@ -18,6 +18,7 @@ Me chamo Pedro Kruger, tenho 24 anos e sou natural do Rio Grande do Sul. Atualme
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 ---
+
 <br>
 
 ### 🤖 Linguagens e Tecnologias
