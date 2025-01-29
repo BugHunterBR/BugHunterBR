@@ -172,7 +172,6 @@ Me chamo Pedro Kruger, tenho 24 anos e sou natural do Rio Grande do Sul. Atualme
 />
 
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
@@ -184,6 +183,8 @@ Me chamo Pedro Kruger, tenho 24 anos e sou natural do Rio Grande do Sul. Atualme
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=pedrolucasak&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+  
+<br>
 
 <img 
       align="left" 
