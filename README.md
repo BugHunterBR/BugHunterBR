@@ -16,48 +16,20 @@ Me chamo Pedro Kruger, tenho 24 anos e sou natural do Rio Grande do Sul. Atualme
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/pedro_alkr/"><img width="32px" alt="instagram" title="pedro_alkr" src="https://imgur.com/E1v36ak.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!--<a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
-
-
-<!--
-<p align="center">
-    <a href="https://www.linkedin.com/in/pedro-kruger-0025a6281/">
-        <img 
-            alt="Linkedin" 
-            title="Conecte-se a minha rede" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCuqrOTvtmvjoxKNZQWAQN4A?color=236ad3&logo=icons-linkedin&logoColor=white&style=for-the-badge&labelColor=1155ba&label=Conectar"
-        />
-    </a>
-    <a href="https://www.instagram.com/pedro_alkr/">
-        <img 
-            alt="Instagram Followers" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCuqrOTvtmvjoxKNZQWAQN4A?color=DD5A7B&logo=instagram&logoColor=white&style=for-the-badge&labelColor=DD2A7B&label=Seguir"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/pedrolucasak?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/pedrolucasak?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/pedrolucasak?color=4c4c4c&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
--->
 ---
+<br>
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -90,22 +62,7 @@ Me chamo Pedro Kruger, tenho 24 anos e sou natural do Rio Grande do Sul. Atualme
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -116,62 +73,15 @@ Me chamo Pedro Kruger, tenho 24 anos e sou natural do Rio Grande do Sul. Atualme
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
-<br/>
+<br>
+<br>
 
 ### 📊 Estatísticas
 
@@ -183,14 +93,10 @@ Me chamo Pedro Kruger, tenho 24 anos e sou natural do Rio Grande do Sul. Atualme
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=pedrolucasak&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  
-<br>
-
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucasak&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
