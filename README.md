@@ -2,7 +2,7 @@
 
 **`Desenvolvedor `**
 
-Me chamo Pedro Kruger, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSC. Compartilho meus conhecimentos em programação e sistemas integrados para resolver problemas complexos e otimizar processos. Minha experiência inclui desenvolvimento de soluções eficientes, automação de tarefas, análise de dados e implementação de sistemas de informação. Com uma abordagem prática e colaborativa, busco simplificar desafios e contribuir para o crescimento contínuo de projetos, equipes e da comunidade.
+Me chamo Pedro, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSC. Compartilho meus conhecimentos em programação e sistemas integrados para resolver problemas complexos e otimizar processos. Minha experiência inclui desenvolvimento de soluções eficientes, automação de tarefas, análise de dados e implementação de sistemas de informação. Com uma abordagem prática e colaborativa, busco simplificar desafios e contribuir para o crescimento contínuo de projetos, equipes e da comunidade.
 
 <br>
 <!-- Social icons section -->
